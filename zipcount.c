@@ -1,3 +1,11 @@
+/*
+ * zipcount.c - minimal and fast tool for extracting file counts and listings from conventional ZIP files
+ *
+ * (c) Copyright 2022, Andrew Crawford
+ *
+ * Licensed under the Apache License 2.0; you may use and modify this software freely.
+ *
+ */
 #include <stdlib.h>
 #include <unistd.h>
 #include <stdio.h>
